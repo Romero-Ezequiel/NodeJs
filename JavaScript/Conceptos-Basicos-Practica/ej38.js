@@ -1,0 +1,10 @@
+/**
+ * Ejercicio 38
+Crear un documento con el nombre ej38.js
+Declarar una variable nombre con tu nombre como valor
+Mostrar en consola la cantidad de letras que tiene tu nombre
+ */
+
+let nombre = 'Ezequiel';
+
+console.log(`Mi nombre tiene ${nombre.length} letras`)
