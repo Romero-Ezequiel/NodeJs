@@ -4,8 +4,23 @@ que escriba si el número primo o no. Un número primo es aquel que
 solo es divisible por si mismo y la unidad
 */
 
-let numero, j=2 ;
+let cont = 1, cont2 = 0, primo = 0, numero;
 
 numero = prompt('Ingrese un numero: ');
 
-(numero >= 1) ? console.log() : console.log('Intente de nuevo');
+while (cont <= numero) {
+    while (cont2 < cont) {
+        if (cont % cont2 == 0 && cont2 != 1 && cont2 != cont) {
+            primo = 1;
+        }
+        cont2++;
+    }
+
+    if (primo == 0) {
+        document.write(cont2 + '<br/>' );
+    } else {
+        primo = 0;
+    }
+    cont++;
+    cont2 = 0;
+}
