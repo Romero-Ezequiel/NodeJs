@@ -5,9 +5,11 @@ Definir el concepto de curso utilizando diferentes variables y
 tipos de datos (Ejemplo: nombre, nro de aula, cantidad de alumnos, etc)
 Encontrar al menos 6 variables que ayuden a describir el concepto de curso
 
-Mostrar el valor de las variables de la siguiente forma: console.log(nombreDeLaVariable, valor)
-Mostrar el tipo de dato de las variables de la siguiente forma: console.log(nombreDeLaVariable, 
-typeof nombreDeLaVariable)
+Mostrar el valor de las variables de la siguiente forma: 
+console.log(nombreDeLaVariable, valor)
+
+Mostrar el tipo de dato de las variables de la siguiente forma: 
+console.log(nombreDeLaVariable, typeof nombreDeLaVariable)
 */
 
 //let nombre, nroAula, cantidadAlumnos;

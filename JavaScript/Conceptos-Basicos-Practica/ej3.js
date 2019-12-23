@@ -15,5 +15,6 @@ Tu fecha de nacimiento
 Tu direccion
  */
 
-var nombre='Ezequiel', apellido='Romero', fechaNac='25/02/1994', direccion='calle false 1234';
+var nombre='Ezequiel', apellido='Romero', fechaNac='25/02/1994',
+    direccion='calle false 1234';
 
