@@ -1,8 +1,9 @@
 /**
 
-Escribe un programa que pueda calcular el area de 3 figuras geometricas, triangulo, rectangulo y circulo. En
-primer lugar preguntar de que figura se quiere calcular el area, despues solicita los datos que necesitas para
-calcularlo.
+Escribe un programa que pueda calcular el area de 3 figuras geometricas,
+triangulo, rectangulo y circulo. 
+En primer lugar preguntar de que figura se quiere calcular el area, 
+despues solicita los datos que necesitas para calcularlo.
 
 Triangulo = (b*h)/2
 Rectangulo = b*h
