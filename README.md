@@ -1,9 +1,11 @@
 ## Ejercicios resueltos del curso de NodeJs
 
-
+_Son ejercicios que realice en el curso de NodeJs de Comunidad IT_
 
 ### Construido con 🛠️
-_Las herramientas que utilice para crear la app son:_
+_Los ejercicios estan organizados segun el nivel de dificultad y utilice lo siguiente:_
+
+
 
 
 
