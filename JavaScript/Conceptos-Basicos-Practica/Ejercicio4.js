@@ -4,7 +4,7 @@ que escriba si el número primo o no. Un número primo es aquel que
 solo es divisible por si mismo y la unidad
 */
 
-let cont = 1, cont2 = 0, primo = 0, numero;
+let cont = 2, cont2 = 0, primo = 0, numero;
 
 numero = prompt('Ingrese un numero: ');
 
