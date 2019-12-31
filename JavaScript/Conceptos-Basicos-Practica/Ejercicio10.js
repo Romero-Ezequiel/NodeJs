@@ -1,6 +1,7 @@
 /**
- * Dado un array que contiene ["Azul","Amarillo","Rojo","Verde","Rosa"]. Determinar si un color introducido 
- * por el usuario a través de un prompt se encuentra dentro del array o no.
+ * Dado un array que contiene ["Azul","Amarillo","Rojo","Verde","Rosa"]. 
+ * Determinar si un color introducido por el usuario a través de un prompt 
+ * se encuentra dentro del array o no.
  */
 
 
