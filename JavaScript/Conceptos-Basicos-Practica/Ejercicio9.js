@@ -3,13 +3,18 @@
  * consonantes, vocales y longitud de la palabra
  */
 
-let palabra, vocales, consonantes;
+const palabra;
+let vocales=0, consonantes=0;
 
-palabra = prompt('Ingrese una palabra: ');
+palabra = prompt('Ingrese una palabra: ').toLocaleLowerCase();
 
-for(var i=0; i <palabra.length;i++){
-
-    if(palabra[i] == '' && ''){
-
+for(const letra of palabra){
+    if(letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u'){
+        vocales++
+    }else{
+        consonantes++
     }
 }
+
+console.log('Tu palabra tiene '+ vocales ' vocales '+ ' y tiene '+ consonantes + ' consonantes');
+
