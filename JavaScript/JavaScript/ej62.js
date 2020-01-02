@@ -39,19 +39,19 @@ if(numeroDeMes >= 1 && numeroDeMes <= 12){
             numeroDeMes == 1 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar');
             break;            
         case 'febrero':
-            numeroDeMes == 2 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
+            numeroDeMes == 2 ? document.write(`${nombreDelMes} 28 días`) : document.write('Volver a intentar'); 
             break;
         case 'marzo':
             numeroDeMes == 3 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
             break;
         case 'abril':
-            numeroDeMes == 4 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
+            numeroDeMes == 4 ? document.write(`${nombreDelMes} 30 días`) : document.write('Volver a intentar'); 
             break;
         case 'mayo':
             numeroDeMes == 5 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
             break;
         case 'junio':
-            numeroDeMes == 6 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
+            numeroDeMes == 6 ? document.write(`${nombreDelMes} 30 días`) : document.write('Volver a intentar'); 
             break;
         case 'julio':
             numeroDeMes == 7 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
@@ -60,19 +60,22 @@ if(numeroDeMes >= 1 && numeroDeMes <= 12){
             numeroDeMes == 8 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
             break;
         case 'septiembre':
-            numeroDeMes == 9 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
+            numeroDeMes == 9 ? document.write(`${nombreDelMes} 30 días`) : document.write('Volver a intentar'); 
             break;
         case 'octubre':
             numeroDeMes == 10 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
             break;
         case 'noviembre':
-            numeroDeMes == 11 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
+            numeroDeMes == 11 ? document.write(`${nombreDelMes} 30 días`) : document.write('Volver a intentar'); 
             break;
         case 'diciembre':
             numeroDeMes == 12 ? document.write(`${nombreDelMes} 31 días`) : document.write('Volver a intentar'); 
             break;
         default:
-            document.write();
+            document.write('Error!!...');
             break; 
     }
+}
+else{
+    document.write('Intente de nuevo....');
 }
