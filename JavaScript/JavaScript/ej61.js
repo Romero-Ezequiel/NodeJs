@@ -19,35 +19,62 @@ variable dia y ver el resultado
 
 let dia = prompt('Ingrese un número entre del 1 al 7');
 let nombreDelDia;
-if(dia => 1 && dia <= 7){
+if(dia >= 1 && dia <= 7){
     nombreDelDia = prompt('Ingrese el dia de la semana');
     switch(nombreDelDia){
         case 'lunes':
-            document.write(`El dia ${dia} es lunes`);
+            if(dia == 1){
+                document.write(`El dia ${dia} es ${nombreDelDia}`);
+            }else{
+                document.write('Intente nuevamente');
+            }
             break;
         case 'martes':
-            document.write(`El dia ${dia} es martes`);
+            if(dia == 2){
+                document.write(`El dia ${dia} es ${nombreDelDia}`);
+            }else{
+                document.write('Intente nuevamente');
+            }
             break;
         case 'miercoles':
-            document.write(`El dia ${dia} es miercoles`);
+            if(dia == 3){
+                document.write(`El dia ${dia} es ${nombreDelDia}`);
+            }else{
+                document.write('Intente nuevamente');
+            }    
             break;
         case 'jueves':
-            document.write(`El dia ${dia} es jueves`);
+            if(dia == 4){
+                document.write(`El dia ${dia} es ${nombreDelDia}`);
+            }else{
+                document.write('Intente nuevamente');
+            }    
             break;
         case 'viernes':
-            document.write(`El dia ${dia} es viernes`);
+            if(dia == 5){
+                document.write(`El dia ${dia} es ${nombreDelDia}`);
+            }else{
+                document.write('Intente nuevamente');
+            }    
             break;
         case 'sabado':
-            document.write(`El dia ${dia} es sabado`);
+            if(dia == 6){
+                document.write(`El dia ${dia} es ${nombreDelDia}`);
+            }else{
+                document.write('Intente nuevamente');
+            }
             break;
         case 'domingo':
-            document.write(`El dia ${dia} es domingo`);
+            if(dia == 7){
+                document.write(`El dia ${dia} es ${nombreDelDia}`);
+            }else{
+                document.write('Intente nuevamente');
+            }
             break;
         default:
             document.write(`Dia incorrecto`);
             break;
- 
     }
 }else{
-    document.write('Ingresar un dia del 1 al 7')
+    document.write('Error!!.. Ingresar un dia del 1 al 7')
 }
