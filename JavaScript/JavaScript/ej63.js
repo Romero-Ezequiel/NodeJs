@@ -74,9 +74,9 @@ if(anio >= 2000 && anio <= 2017){
         case 2012: document.write(`En el año ${anio} salió campeón: ${campeonArray[12]}`);break;
         case 2013: document.write(`En el año ${anio} salió campeón: ${campeonArray[13]}`);break;
         case 2014: document.write(`En el año ${anio} salió campeón: ${campeonArray[14]}`);break;
-        case 2015: document.write(`En el año ${anio} salió campeón: ${campeonArray[16]}`);break;
-        case 2016: document.write(`En el año ${anio} salió campeón: ${campeonArray[17]}`);break;
-        case 2017: document.write(`En el año ${anio} salió campeón: ${campeonArray[18]}`);break;
+        case 2015: document.write(`En el año ${anio} salió campeón: ${campeonArray[15]}`);break;
+        case 2016: document.write(`En el año ${anio} salió campeón: ${campeonArray[16]}`);break;
+        case 2017: document.write(`En el año ${anio} salió campeón: ${campeonArray[17]}`);break;
         default:
             document.write('Volver a intentar');
             break;
