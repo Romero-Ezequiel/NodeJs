@@ -12,9 +12,9 @@ const esPar = () =>{
     var num = [2, 5, 3, 24, 12];
     for(var i=0; i <= num.length-1; i++){
         if(num[i] % 2 == 0){
-            console.log(num[i]+ ' es par');
+            console.log(`${num[i]} es par`);
         }else{
-            console.log(num[i]+ ' no es par');
+            console.log(`${num[i]} no es par`);
         }
     }
 }
