@@ -15,9 +15,6 @@ let helados = ['crema del cielo', 'granizado', 'chocolate', 'dulce de leche',
     'chocolate nevado']
 //.reverse();
 
-
-
-
 const mostrarGusto = (helados, gustoNuevo) => {
     let i = helados.length - 1;
 
