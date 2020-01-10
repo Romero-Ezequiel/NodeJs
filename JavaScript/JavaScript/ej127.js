@@ -19,7 +19,7 @@ const mostrarGusto = (helados, gustoNuevo, stockArray) => {
         gustoNuevo.push(helados[i]);
     }
     console.log(gustoNuevo);
-    stockArray = gustoNuevo.splice(8,9);
+    stockArray = gustoNuevo.splice(0,1);
     console.log(stockArray);
 }
 
