@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ej15.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezequiel Romero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
