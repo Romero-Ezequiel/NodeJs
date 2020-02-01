@@ -13,4 +13,4 @@ _Los ejercicios estan organizados segun el nivel de dificultad y utilice las sig
 
 ### Autor ✒️
 
-* **Ezequiel Romero** - [Romero-Ezequiel](https://github.com/Romero-Ezequiel)
+* **Alumno: ** Ezequiel Romero - [Romero-Ezequiel](https://github.com/Romero-Ezequiel)
