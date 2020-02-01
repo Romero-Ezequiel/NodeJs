@@ -10,7 +10,6 @@ _Los ejercicios estan organizados segun el nivel de dificultad y utilice las sig
 * [Express](https://expressjs.com/es/) - Es un framework de nodejs que nos permite crear un servidor de manera muy sencilla 
 * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 
 
-
 ### Autor ✒️
 
-***Alumno:  ***Ezequiel Romero - [Romero-Ezequiel](https://github.com/Romero-Ezequiel)
+* **Alumno: Ezequiel Romero** - *Resoluciones de ejercicios del curso de NodeJs* 
