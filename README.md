@@ -13,4 +13,4 @@ _Los ejercicios estan organizados segun el nivel de dificultad y utilice las sig
 
 ### Autor ✒️
 
-* **Alumno: Ezequiel Romero** - *Resoluciones de ejercicios del curso de NodeJs* 
+* **Alumno: Ezequiel Romero** 
