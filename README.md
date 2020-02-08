@@ -12,4 +12,4 @@ _Los ejercicios estan organizados segun el nivel de dificultad y utilice las sig
 * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - Es el servicio global de base de datos en la nube para aplicaciones modernas.
 
 ### Autor ✒️
-* **_Alumno:_ Ezequiel Romero** 
+* **Alumno: Ezequiel Romero** 
