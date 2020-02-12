@@ -1,0 +1,13 @@
+body{
+    background-color: #eee;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+h1{
+    font-weight: normal;
+}
+  
+img{
+    border-radius: 5px;
+}
