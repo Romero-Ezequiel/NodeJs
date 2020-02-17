@@ -1,6 +1,6 @@
 ## Ejercicios resueltos del curso de NodeJs
 
-_Son ejercicios que realice en el curso de NodeJs de [ComIT](http://www.comunidadit.org/)_
+_Son ejercicios que realice en el curso de NodeJs de [ComIT](http://www.comunidadit.org/), [Udemy](https://www.udemy.com/course/curso-nodejs-crea-tus-aplicaciones-restful/)_
 
 ### Construido con 🛠️
 _Los ejercicios estan organizados segun el nivel de dificultad y utilice las siguientes tecnologias:_
