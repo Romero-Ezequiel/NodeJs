@@ -1,0 +1,16 @@
+{{#if mensaje}}
+<p class="mensaje mensaje-{{tipo}}">{{mensaje}}</p>
+{{/if}}
+
+<form action="/registrar" method="post">
+    <label for="usuarix">Usuarix</label>
+    <input type="text" name="usuarix" id="usuarix">
+
+    <label for="password">Ingrese clave</label>
+    <input type="password" name="password" id="password">
+
+    <label for="password">Reitere clave</label>
+    <input type="password" name="passwordRep" id="passwordRep">
+    
+    <input type="submit" name="Login" id="login"  ></input>
+</form>
